@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @QuangVu404 from PTIT - HaNoi
+- 👋 Hi, I’m @QuangVu404 from PTIT - HaNoi, I'm learning about Computer Science and Artificial Intelligence
