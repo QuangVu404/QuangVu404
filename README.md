@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @QuangVu404 from PTIT - HaNoi, I'm learning about Computer Science and Artificial Intelligence
+- 👋 Hi, I’m @QuangVu404 from Faculty of Information Technology PTIT - HaNoi
+- Major: Computer Science and Artificial Intelligence
